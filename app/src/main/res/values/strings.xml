@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My First App</string>
-    <string name="hello_world_text">hola!</string>
+    <string name="hello_world_text">Voici un compteur complètement inutile, amuse toi bien avec</string>
+    <string name="counter_txt">0</string>
 </resources>
